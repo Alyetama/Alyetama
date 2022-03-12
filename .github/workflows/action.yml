@@ -27,7 +27,7 @@ jobs:
           user: Alyetama
           template: classic
           base: header, activity, community, repositories, metadata
-          repositories_skipped: Website, Toxoproject.com, chevereto-free
+          repositories_skipped: Website, Toxoproject.com, chevereto-free, Colab-Notebooks, uppy, catpaste, Toxopy-Pages, chaselab-ideas
           config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: detailed
