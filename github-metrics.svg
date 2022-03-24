@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3970 Commits
+                            3969 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.18426239642537" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="155.18426239642537" y="0" width="149.70152213427212" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="304.8857845306975" y="0" width="53.735141022851046" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="358.62092555354855" y="0" width="47.88465439330258" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="406.5055799468511" y="0" width="34.76183306126322" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.2674130081144" y="0" width="18.359090503607177" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="459.6265035117215" y="0" width="0.27391484934626464" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.9004183610678" y="0" width="0.0995816389321821" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.06705487010072" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="155.06705487010072" y="0" width="149.70671094185926" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="304.77376581196" y="0" width="53.8436458393706" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="358.61741165133066" y="0" width="47.886314124309195" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="406.50372577563985" y="0" width="34.7630379418854" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.26676371752524" y="0" width="18.35972684842679" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="459.62649056595205" y="0" width="0.27392434351458206" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.90041490946663" y="0" width="0.09958509053345016" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>posva/catimg</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦦 Insanely fast image printing in your terminal</div>
@@ -1622,7 +1622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leouieda/cv</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A LaTeX template for academic CVs</div>
@@ -2343,7 +2343,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2022, 11:09:27 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Mar 2022, 12:11:39 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
