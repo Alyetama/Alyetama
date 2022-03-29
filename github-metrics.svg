@@ -1559,7 +1559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gotify/server</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)</div>
@@ -1612,7 +1612,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>celery/celery</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed Task Queue (development branch)</div>
@@ -1665,7 +1665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apple/turicreate</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turi Create simplifies the development of custom machine learning models.</div>
@@ -2347,7 +2347,7 @@ Replace ifconfig with ip</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2022, 16:09:41 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 17:09:00 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
