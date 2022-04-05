@@ -1612,7 +1612,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simonw/datasette-publish-vercel</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Datasette plugin for publishing data using Vercel</div>
@@ -1665,7 +1665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simonw/csvs-to-sqlite</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert CSV files into a SQLite database</div>
@@ -1718,7 +1718,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ramnes/awesome-mongodb</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2322,7 +2322,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2022, 09:19:55 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 5 Apr 2022, 10:09:07 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
