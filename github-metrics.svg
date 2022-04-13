@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattermost/focalboard</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</div>
@@ -1617,7 +1617,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nickspaargaren/no-google</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Completely block Google and its services</div>
@@ -1670,7 +1670,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asciinema/asciicast2gif</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate GIF animations from asciicasts (asciinema recordings)</div>
@@ -1723,7 +1723,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aleju/imgaug</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Image augmentation for machine learning experiments.</div>
@@ -2352,7 +2352,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2022, 14:10:58 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 13 Apr 2022, 15:08:09 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
