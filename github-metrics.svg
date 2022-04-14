@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metabase/metabase</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1625,7 +1625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sosedoff/pgweb</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform client for PostgreSQL databases</div>
@@ -1678,7 +1678,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dhamaniasad/awesome-postgres</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql</div>
@@ -1725,7 +1725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sepandhaghighi/pycm</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-class confusion matrix library in Python</div>
@@ -2348,7 +2348,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2022, 00:10:55 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 14 Apr 2022, 01:08:54 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
