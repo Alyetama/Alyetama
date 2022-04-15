@@ -1537,7 +1537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hedgedoc/hedgedoc</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HedgeDoc - The best platform to write and share markdown.</div>
@@ -1590,7 +1590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tborychowski/self-hosted-cookbook</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cookbook, for docker-compose based recipes, for self-hosted applications and services.</div>
@@ -2310,7 +2310,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2022, 03:09:28 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 15 Apr 2022, 04:11:47 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
