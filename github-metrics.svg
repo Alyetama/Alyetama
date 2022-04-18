@@ -1554,7 +1554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spikecodes/libreddit</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Private front-end for Reddit</div>
@@ -2354,7 +2354,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2022, 02:11:59 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 03:09:43 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
