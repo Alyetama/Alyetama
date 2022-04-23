@@ -1536,7 +1536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitchellh/gon</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sign, notarize, and package macOS CLI tools and applications written in any language. Available as both a CLI and a Go library.</div>
@@ -1589,7 +1589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jupyterhub/binderhub</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run your code in the cloud, with technology so advanced, it feels like magic!</div>
@@ -2323,7 +2323,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2022, 00:10:40 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 01:08:17 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
