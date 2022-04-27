@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>notable/notable-insiders</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A repository containing experimental releases of Notable.</div>
@@ -2466,7 +2466,7 @@ Former-commit-id: a23a59e5e71093afe78b7c91e88a01f5d47c6b63</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 18:09:36 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 19:09:39 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
