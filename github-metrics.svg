@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4334 Commits
+                            4335 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    873 views in last two weeks
+                                    924 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.37954817628184" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="164.37954817628184" y="0" width="144.66811662878865" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="309.0476648050705" y="0" width="52.98192342728436" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="362.02958823235485" y="0" width="46.274631464910165" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="408.30421969726507" y="0" width="33.59303798545682" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.89725768272183" y="0" width="17.74180387953637" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="459.6390615622582" y="0" width="0.26470502641943733" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.9037665886776" y="0" width="0.09623341132233361" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.3819829871536" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="164.3819829871536" y="0" width="144.66692510262396" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="309.04890808977757" y="0" width="52.98148705367635" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="362.0303951434539" y="0" width="46.274250334392704" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="408.3046454778466" y="0" width="33.592761304010736" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.89740678185734" y="0" width="17.741657753188534" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="459.63906453504586" y="0" width="0.26470284623646234" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.9037673812823" y="0" width="0.09623261871764517" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2078,6 +2078,26 @@
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cced4cf</div>
+                                        <div class="message">Typo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Alyetama/Remove-Background-Online</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">gh-pages</span></div>
                                     <div class="commit">
                                         <div class="sha">#44895df</div>
@@ -2141,26 +2161,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#3bfc83e</div>
-                                        <div class="message">Remove loguru</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Alyetama/Gotipy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4464178</div>
                                         <div class="message">Remove loguru</div>
                                     </div>
                                 </div>
@@ -2359,7 +2359,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2022, 10:17:17 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 11:11:21 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
