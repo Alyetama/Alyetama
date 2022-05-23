@@ -1556,7 +1556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spotDL/spotify-downloader</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).</div>
@@ -1609,7 +1609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LaurenceRawlings/savify</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download Spotify songs to mp3 with full metadata and cover art!</div>
@@ -1662,7 +1662,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpochyla/psst</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and multi-platform Spotify client with native GUI</div>
@@ -2335,7 +2335,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2022, 07:09:03 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 08:17:15 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
