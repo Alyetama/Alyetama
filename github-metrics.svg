@@ -1567,7 +1567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lengstrom/fast-style-transfer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TensorFlow CNN for fast style transfer ⚡🖥🎨🖼</div>
@@ -1614,7 +1614,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhanghang1989/PyTorch-Multi-Style-Transfer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neural Style and MSG-Net</div>
@@ -1667,7 +1667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DmitryUlyanov/deep-image-prior</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Image restoration with neural networks but without learning.</div>
@@ -1720,7 +1720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JiahuiYu/generative_inpainting</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral</div>
@@ -2336,7 +2336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2022, 11:10:25 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 12:13:32 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
