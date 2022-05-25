@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pdoc3/pdoc</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1730,7 +1730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DmitryUlyanov/deep-image-prior</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Image restoration with neural networks but without learning.</div>
@@ -2372,7 +2372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2022, 23:43:48 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 00:21:56 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
