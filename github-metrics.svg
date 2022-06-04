@@ -1550,7 +1550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mgramin/awesome-db-tools</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Everything that makes working with databases easier</div>
@@ -1597,7 +1597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dmontagu/fastapi-utils</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reusable utilities for FastAPI</div>
@@ -1650,7 +1650,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xonsh/xonsh</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1706,7 +1706,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VSCodium/vscodium</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">binary releases of VS Code without MS branding/telemetry/licensing</div>
@@ -2349,7 +2349,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2022, 04:10:49 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 05:09:45 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
