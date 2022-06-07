@@ -1567,7 +1567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PyTorchLightning/lightning-flash</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains</div>
@@ -1620,7 +1620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhiqwang/yolov5-rt-stack</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">yolort is a runtime stack for yolov5 on specialized accelerators such as libtorch, onnxruntime, tensorrt, tvm and ncnn.</div>
@@ -2370,7 +2370,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2022, 23:46:11 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 00:18:42 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
