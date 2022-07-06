@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>photoview/photoview</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Photo gallery for self-hosted personal servers</div>
@@ -1625,7 +1625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xemle/home-gallery</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery</div>
@@ -2370,7 +2370,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 10:10:42 (timezone America/New_York) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 11:10:17 (timezone America/New_York) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
