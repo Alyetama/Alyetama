@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArchiveBox/ArchiveBox</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...</div>
@@ -1625,7 +1625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meilisearch/meilisearch</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.</div>
@@ -1734,7 +1734,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>directus/directus</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.</div>
@@ -2371,7 +2371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2022, 10:11:49 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 11:10:40 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
