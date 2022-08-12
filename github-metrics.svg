@@ -1539,7 +1539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XIU2/TrackersListCollection</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！</div>
@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JubbeArt/removeddit</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">View deleted stuff from reddit</div>
@@ -1639,7 +1639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gurnec/removeddit</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">View deleted stuff from reddit</div>
@@ -2314,7 +2314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2022, 04:12:25 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 05:09:58 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
