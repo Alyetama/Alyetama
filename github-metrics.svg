@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    35.6m added, 34.1m removed
+                                    35.7m added, 34.2m removed
                                 </div>
                             </section>
                             <section>
@@ -1562,7 +1562,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.33k
+                                        6.34k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1615,7 +1615,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.97k
+                                        6.98k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1651,7 +1651,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                                    <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                                    <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
                                     Jekyll theme for building a personal site, blog, project documentation, or portfolio.
                                 </div>
                                 <div class="field infos">
@@ -2192,7 +2192,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2022, 02:02:31 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 03:02:36 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
