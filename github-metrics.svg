@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CalculatedContent/WeightWatcher</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks</div>
@@ -2150,7 +2150,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2023, 10:02:37 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Mar 2023, 11:02:48 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
