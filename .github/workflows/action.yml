@@ -83,13 +83,8 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
           plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_worldmap: yes
+          plugin_stargazers_charts_type: chartist
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_support: yes
           plugin_traffic: yes
