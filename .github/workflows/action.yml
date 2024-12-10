@@ -27,7 +27,7 @@ jobs:
 
           # Options
           user: Alyetama
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           plugin_achievements: yes
