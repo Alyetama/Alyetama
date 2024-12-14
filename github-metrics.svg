@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ianklatzco/twitter-to-bsky</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">import a twitter archive into bsky</div>
@@ -1576,7 +1576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marcomaroni-github/twitter-to-bluesky</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Import all tweets exported from X/Twitter to a Bluesky account.</div>
@@ -1857,7 +1857,7 @@ The error you're encountering,
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 233k out of 148m users</span>
+                                    <span class="gh">ranked 233k out of 147m users</span>
                                 </div>
                                 <div class="text">Published 93 public repositories</div>
                             </div>
@@ -2060,7 +2060,7 @@ The error you're encountering,
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 514k out of 148m users</span>
+                                    <span class="gh">ranked 514k out of 147m users</span>
                                 </div>
                                 <div class="text">Followed by 30 users</div>
                             </div>
@@ -2129,7 +2129,7 @@ The error you're encountering,
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.20m out of 220m repositories</span>
+                                    <span class="gh">ranked 1.20m out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 22 stars</div>
                             </div>
@@ -2412,7 +2412,7 @@ The error you're encountering,
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2024, 11:07:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2024, 12:07:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
