@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpotX-Official/SpotX-Bash</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</div>
@@ -2022,7 +2022,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 518k out of 152m users</span>
+                                    <span class="gh">ranked 519k out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 30 users</div>
                             </div>
@@ -2091,7 +2091,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.17m out of 224m repositories</span>
+                                    <span class="gh">ranked 1.17m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 23 stars</div>
                             </div>
@@ -2374,7 +2374,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2024, 22:11:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Dec 2024, 23:09:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
