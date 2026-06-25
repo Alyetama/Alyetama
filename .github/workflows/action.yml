@@ -33,18 +33,19 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_code: yes
-          plugin_code_days: 3
+          plugin_code_days: 30
           plugin_code_lines: 12
           plugin_code_load: 400
-          plugin_code_visibility: public
+          plugin_code_visibility: all
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
+          plugin_habits_charts: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 1000
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
@@ -66,13 +67,9 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
+          plugin_notable_self: yes
           plugin_notable_types: commit
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
