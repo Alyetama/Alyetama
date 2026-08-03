@@ -26,12 +26,17 @@ jobs:
           # plugin_achievements_display: detailed
           # plugin_achievements_secrets: yes
           # plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          # Disabled: throws on the current GitHub API. PushEvent payloads no longer
+          # carry a `commits` array, so activity/index.mjs:140 calls .filter() on
+          # undefined and the whole plugin dies, rendering nothing. Not fixable via
+          # config -- plugin_activity_filter is applied after the map that crashes.
+          # Upstream fixes (PR #1760, #1834) are open and unmerged.
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: all
           plugin_code: yes
           plugin_code_days: 30
           plugin_code_lines: 12
@@ -40,14 +45,18 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_from: 1000
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          # Disabled: same GitHub API change. habits/index.mjs:49 flatMaps
+          # payload.commits (now undefined), then :51 destructures `author` off it
+          # and throws. The patch computation is unconditional, so no combination of
+          # habits options avoids it. Upstream fix (PR #1807) is open and unmerged.
+          # plugin_habits: yes
+          # plugin_habits_charts: yes
+          # plugin_habits_charts_type: classic
+          # plugin_habits_days: 30
+          # plugin_habits_facts: yes
+          # plugin_habits_from: 1000
+          # plugin_habits_languages_limit: 8
+          # plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -76,4 +85,6 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
+          # Requires the `repo` scope on METRICS_TOKEN -- fails with
+          # "Insufficient token scopes" without it, and the views section is dropped.
           plugin_traffic: yes
